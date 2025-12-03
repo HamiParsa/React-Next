@@ -71,7 +71,7 @@ This project demonstrates **modern frontend design, SPA behavior, and interactiv
 
 ## 👨‍💻 Author
 
-**Developed by:** [Your Name](https://github.com/YourGithub)  
+**Developed by:** [HamiParsa](https://github.com/HamiParsa)  
 💬 Front-End Developer | Building interactive, single-page SPA documentation
 
 ---
