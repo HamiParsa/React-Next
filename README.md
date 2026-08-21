@@ -112,6 +112,7 @@
 
 
 
+
 <div align="center">
   <h1>⚛️ React + Next.js Hyper Ultimate Docs</h1>
   <p>An interactive, single-page SPA showcasing React and Next.js concepts, interactive playgrounds, deep concepts, performance tips, and resources. Built with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion.</p>
